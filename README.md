@@ -1,4 +1,4 @@
-# freeCodeCamp Testimonials
+# Count App
 
 Hello! This is an application developed with Svelte, an interactive click counter that increments the counter when you click a button. The counter is reset if the reset button is clicked.
 
